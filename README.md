@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple Calculator written in Python
+Simple Calculator written in Python using tkinter
